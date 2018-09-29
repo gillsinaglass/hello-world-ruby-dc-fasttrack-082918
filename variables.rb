@@ -1,3 +1,5 @@
-name = "Ryan"
+name = "Ryan";
 
-puts name;
+number = '23';
+
+puts name + number;
